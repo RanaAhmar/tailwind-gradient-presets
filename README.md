@@ -56,6 +56,7 @@ First impressions matter. By utilizing advanced, modern gradient structures like
 
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -63,6 +64,7 @@ First impressions matter. By utilizing advanced, modern gradient structures like
 If you found this tool useful, check out our other high-performance web utilities and follow **Ahmar Hussain** for more open-source excellence.
 
 ### 🌟 Featured Projects
+- **[Stackaura Hub](https://github.com/RanaAhmar/stackaura-hub)** - The central index for all 100 repositories.
 - **[Free LLM APIs](https://github.com/RanaAhmar/free-llm-apis)** - A curated list of zero-cost AI endpoints.
 - **[Awesome MCP Servers](https://github.com/RanaAhmar/awesome-mcp-servers)** - The ultimate collection of Model Context Protocol implementations.
 - **[System Design Cheatsheet](https://github.com/RanaAhmar/system-design-cheatsheet)** - Master complex architectures in minutes.
@@ -73,6 +75,7 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
 
 
