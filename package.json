@@ -1,0 +1,21 @@
+{
+  "name": "tailwind-gradient-presets",
+  "version": "1.0.0",
+  "description": "A collection of high-fidelity, premium Tailwind CSS mesh gradients and presets as a native plugin.",
+  "main": "index.js",
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "plugin",
+    "gradient",
+    "mesh-gradient",
+    "presets",
+    "design",
+    "ui"
+  ],
+  "author": "Ahmar Hussain",
+  "license": "MIT"
+}
