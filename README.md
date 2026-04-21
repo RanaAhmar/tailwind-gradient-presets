@@ -52,6 +52,7 @@ Now use the classes anywhere in your HTML/JSX:
 First impressions matter. By utilizing advanced, modern gradient structures like meshes and multi-stop linear flows, you dramatically reduce bounce rates by immediately engaging the user. Better engagement metrics signal value to search engines, inherently boosting your long-term organic ranking capabilities.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -69,4 +70,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
